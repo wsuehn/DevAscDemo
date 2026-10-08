@@ -11,3 +11,4 @@ def add_numbers(first: int, second: int) -> int:
 if __name__ == "__main__":
     print(greet("Developer"))
     print(add_numbers(5, 7))
+    print("This is a feature module that can be imported into other scripts.")
